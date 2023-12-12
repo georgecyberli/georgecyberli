@@ -4,7 +4,7 @@
 
 <h2>📄 Certifications:</h2>
 
-- (ISC)² Certified in Cybersecurity (CC)
+- [(ISC)² Certified in Cybersecurity (CC)](https://www.credly.com/badges/0b4eb685-e1ad-4756-90dd-2c3f1f477c9e/linked_in_profile)
 - [Cisco Certified Technician Routing & Switching (CCT 100-490) ](https://drive.google.com/file/d/1ETUXy2mkNkXot9K7scThuGyb4D0QEWbk/view?usp=drive_link)
 - [Google Professional Workspace Administrator](https://drive.google.com/file/d/106aYX10Bc0Yw6cJNDEm5hWa113D4Kpxk/view?usp=drive_link)
 

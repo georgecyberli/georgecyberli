@@ -6,7 +6,7 @@
 
 - (ISC)² Certified in Cybersecurity (CC)
 - [Cisco Certified Technician Routing & Switching (CCT 100-490) ](https://drive.google.com/file/d/1ETUXy2mkNkXot9K7scThuGyb4D0QEWbk/view?usp=drive_link)
-- [Google Professional Workspace Administrator](https://drive.google.com/file/d/1ETUXy2mkNkXot9K7scThuGyb4D0QEWbk/view?usp=drive_link)
+- [Google Professional Workspace Administrator](https://drive.google.com/file/d/106aYX10Bc0Yw6cJNDEm5hWa113D4Kpxk/view?usp=drive_link)
 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>

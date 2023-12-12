@@ -2,6 +2,13 @@
 
 <b>I am a motivated self-learner with a strong problem-solving aptitude and adaptability. My focus on ethical practices guides my exploration and learning in the dynamic field of cybersecurity, where I continually strive to enhance my skills for the benefit of individuals and organizations.</b>
 
+<h2>📄 Certifications:</h2>
+
+- (ISC)² Certified in Cybersecurity (CC)
+- [Cisco Certified Technician Routing & Switching (CCT 100-490) ](https://drive.google.com/file/d/1ETUXy2mkNkXot9K7scThuGyb4D0QEWbk/view?usp=drive_link)
+- [Google Professional Workspace Administrator](https://drive.google.com/file/d/1ETUXy2mkNkXot9K7scThuGyb4D0QEWbk/view?usp=drive_link)
+
+
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>

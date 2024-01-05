@@ -12,6 +12,7 @@
 
 <h2>👨‍💻 Company Projects:</h2>
 
+- <b>SIEM Integration: Wazuh Open Source Security (In Progress)</b>
 - <b>Legacy File Servers Migration and Security Enhancement Project (December 2023)</b>
   - [Project Summary](https://github.com/georgecyberli/FileServMigration)
  - <b>SentinelOne: Secure Endpoint Enhancement Project (May 2023)</b>

@@ -12,8 +12,13 @@
 
 <h2>👨‍💻 Company Projects:</h2>
 
-- <b>Legacy File Servers Migration and Security Enhancement Project (2023)</b>
+- <b>Legacy File Servers Migration and Security Enhancement Project (December 2023)</b>
   - [Project Summary](https://github.com/georgecyberli/FileServMigration)
+ - <b>SentinelOne: Secure Endpoint Enhancement Project (May 2023)</b>
+   - [Project Summary](https://github.com/georgecyberli/FileServMigration)
+- <b>RingCentral: Cloud-Based Telecom Platform Transitioning (December 2022)</b>
+  - [Project Summary](https://github.com/georgecyberli/FileServMigration)
+  
 
 
 

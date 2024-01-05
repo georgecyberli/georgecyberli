@@ -15,7 +15,7 @@
 - <b>Legacy File Servers Migration and Security Enhancement Project (December 2023)</b>
   - [Project Summary](https://github.com/georgecyberli/FileServMigration)
  - <b>SentinelOne: Secure Endpoint Enhancement Project (May 2023)</b>
-   - [Project Summary](https://github.com/georgecyberli/FileServMigration)
+   - [Project Summary](https://github.com/georgecyberli/SintinelOneIntegration/tree/main)
 - <b>RingCentral: Cloud-Based Telecom Platform Transitioning (December 2022)</b>
   - [Project Summary](https://github.com/georgecyberli/FileServMigration)
   

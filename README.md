@@ -17,7 +17,7 @@
  - <b>SentinelOne: Secure Endpoint Enhancement Project (May 2023)</b>
    - [Project Summary](https://github.com/georgecyberli/SentinelOneIntegration/tree/main)
 - <b>RingCentral: Cloud-Based Telecom Platform Transitioning (December 2022)</b>
-  - [Project Summary](https://github.com/georgecyberli/FileServMigration)
+  - [Project Summary](https://github.com/georgecyberli/RingCentralIntegration)
   
 
 

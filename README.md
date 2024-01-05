@@ -10,7 +10,7 @@
 - [Google Professional Workspace Administrator](https://drive.google.com/file/d/106aYX10Bc0Yw6cJNDEm5hWa113D4Kpxk/view?usp=drive_link)
 
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Company Projects:</h2>
 
 - <b>Legacy File Servers Migration and Security Enhancement Project (2023)</b>
   - [Project Summary](https://github.com/georgecyberli/FileServMigration)

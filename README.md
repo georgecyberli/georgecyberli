@@ -11,7 +11,7 @@
 
 <h2>⚠ Security Incidents/Incidents Response:</h2>
 
-- [Phishing Emails (Spoofing Tactic)](https://www.credly.com/badges/0b4eb685-e1ad-4756-90dd-2c3f1f477c9e/linked_in_profile)
+- [Phishing Emails (Spoofing Tactic)](https://github.com/georgecyberli/PhishingAnalysis)
 
 <h2>👨‍💻 Company Projects:</h2>
 

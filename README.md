@@ -12,6 +12,7 @@
 <h2>⚠ Security Incidents & Responses:</h2>
 
 - [Phishing Emails (Spoofing Tactic)](https://github.com/georgecyberli/PhishingAnalysis)
+- [Mimikatz Attacks](https://github.com/georgecyberli/MimikatzIncident)
 
 <h2>👨‍💻 Company Projects:</h2>
 

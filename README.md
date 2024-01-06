@@ -14,9 +14,12 @@
 - [Phishing Emails (Spoofing Tactic)](https://github.com/georgecyberli/PhishingAnalysis)
 - [Mimikatz Attacks](https://github.com/georgecyberli/MimikatzIncident)
 
-<h2>👨‍💻 Company Projects:</h2>
+<h2>👨‍💻 Cybersecury Projects (Self-Study):</h2>
 
 - <b>SIEM Integration: Wazuh Open Source Security (In Progress)</b>
+
+<h2>👨‍💻 Company Projects:</h2>
+
 - <b>Legacy File Servers Migration and Security Enhancement Project (December 2023)</b>
   - [Project Summary](https://github.com/georgecyberli/FileServMigration)
  - <b>SentinelOne: Secure Endpoint Enhancement Project (May 2023)</b>

@@ -16,7 +16,7 @@
 
 <h2>👨‍💻 Cybersecury Projects (Self-Study):</h2>
 
-- <b>SIEM Integration: Wazuh Open Source Security (In Progress)</b>
+- <b>SIEM Integration: Wazuh Open Source Security (January 2024)</b>
   - [Project Summary](https://github.com/georgecyberli/WazuhSIEMproject)
  
 <h2>👨‍💻 Company Projects:</h2>

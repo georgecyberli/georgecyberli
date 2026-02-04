@@ -16,6 +16,8 @@
 
 <h2>👨‍💻 Cybersecury Projects (Self-Study):</h2>
 
+- <b>Secure Network Segmentation & DMZ Web Service Lab (February 2026)</b>
+  - [Project Summary](https://github.com/georgecyberli/NetworkSegmentation)
 - <b>SIEM Integration: Wazuh Open Source Security (January 2024)</b>
   - [Project Summary](https://github.com/georgecyberli/WazuhSIEMproject)
  

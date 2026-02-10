@@ -26,7 +26,7 @@
 - <b>FCM760 - Digital Forensic Analysis (Spring 2025)</b>
   - [Project Summary](https://github.com/georgecyberli/FCM760-Digital-Forensic-Analysis)
 
-<h2>👨‍💻 Company Projects:</h2>
+<h2>💼 Company Projects:</h2>
 
 - <b>Legacy File Servers Migration and Security Enhancement Project (December 2023)</b>
   - [Project Summary](https://github.com/georgecyberli/FileServMigration)

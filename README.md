@@ -20,7 +20,12 @@
   - [Project Summary](https://github.com/georgecyberli/NetworkSegmentation)
 - <b>SIEM Integration: Wazuh Open Source Security (January 2024)</b>
   - [Project Summary](https://github.com/georgecyberli/WazuhSIEMproject)
- 
+
+<h2>🎓 College Final Projects:</h2>
+
+- <b>FCM760 - Digital Forensic Analysis (Spring 2025)</b>
+  - [Project Summary](https://github.com/georgecyberli/FCM760-Digital-Forensic-Analysis)
+
 <h2>👨‍💻 Company Projects:</h2>
 
 - <b>Legacy File Servers Migration and Security Enhancement Project (December 2023)</b>

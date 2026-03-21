@@ -14,12 +14,10 @@
 - [Phishing Emails (Spoofing Tactic)](https://github.com/georgecyberli/PhishingAnalysis)
 - [Mimikatz Attacks](https://github.com/georgecyberli/MimikatzIncident)
 
-<h2>👨‍💻 Cybersecury Projects (Self-Study):</h2>
+<h2>👨‍💻 Security Engineering Projects (Self-Study):</h2>
 
 - <b>Secure Network Segmentation & Firewall Lab (February 2026)</b>
   - [Project Summary](https://github.com/georgecyberli/NetworkSegmentation)
-- <b>SIEM Integration: Wazuh Open Source Security (January 2024)</b>
-  - [Project Summary](https://github.com/georgecyberli/WazuhSIEMproject)
 
 <h2>🎓 College Final Projects:</h2>
 
@@ -27,19 +25,6 @@
   - [Project Summary](https://github.com/georgecyberli/FCM790-SRE-Project1.git)
 - <b>FCM760 - Digital Forensic Analysis (Spring 2025)</b>
   - [Project Summary](https://github.com/georgecyberli/FCM760-Digital-Forensic-Analysis)
-
-<h2>💼 Company Projects:</h2>
-
-- <b>Legacy File Servers Migration and Security Enhancement Project (December 2023)</b>
-  - [Project Summary](https://github.com/georgecyberli/FileServMigration)
- - <b>SentinelOne: Secure Endpoint Enhancement Project (May 2023)</b>
-   - [Project Summary](https://github.com/georgecyberli/SentinelOneIntegration/tree/main)
-- <b>RingCentral: Cloud-Based Telecom Platform Transitioning (December 2022)</b>
-  - [Project Summary](https://github.com/georgecyberli/RingCentralIntegration)
-  
-
-
-
 
 <h2> 🤳 Connect with me:</h2>
 

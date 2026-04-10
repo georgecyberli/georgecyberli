@@ -22,7 +22,8 @@
 <h2>🎓 College Final Projects:</h2>
 
 - <b>FCM790 - Site Reliability Engineering (SRE) (Spring 2026)</b>
-  - [Project Summary](https://github.com/georgecyberli/FCM790-SRE-Project1.git)
+  - <b>Part 1: </b>[Build-It](https://github.com/georgecyberli/FCM790-SRE-Project1.git)
+  - <b>Part 2: </b>[Observe-It](https://github.com/georgecyberli/FCM790-SRE-Project2.git)
 - <b>FCM760 - Digital Forensic Analysis (Spring 2025)</b>
   - [Project Summary](https://github.com/georgecyberli/FCM760-Digital-Forensic-Analysis)
 

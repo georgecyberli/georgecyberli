@@ -1,6 +1,6 @@
-<h1>Hi, I'm Jiehui! <br/><a href="https://www.linkedin.com/in/jiehui-li/">Cybersecurity</a>, <a href="https://www.linkedin.com/in/jiehui-li/">IT Professional</a></h1>
+<h1>Hi, I'm Jiehui! <br/><a href="https://www.linkedin.com/in/jiehui-li/">Security Engineer</a> | <a href="https://www.linkedin.com/in/jiehui-li/">Cloud Infrastructure & Network Defense</a></h1>
 
-<b>I am a motivated self-learner with a strong problem-solving aptitude and adaptability. My focus on ethical practices guides my exploration and learning in the dynamic field of cybersecurity, where I continually strive to enhance my skills for the benefit of individuals and organizations.</b>
+<b>I am a Security Engineer with a strong foundation in systems administration, currently specializing in cloud infrastructure defense and network security. This repository showcases my hands-on technical labs, ranging from architecting highly available, Multi-AZ AWS environments to designing segmented enterprise firewalls and conducting digital forensic analysis.</b>
 
 <h2>📄 Certifications:</h2>
 
@@ -10,19 +10,10 @@
 - [Google Cybersecurity Certificate](https://www.credly.com/badges/6a9bb5c9-ad2e-4fe2-9fad-4de80124009e/linked_in_profile)
 - [Google Professional Workspace Administrator](https://drive.google.com/file/d/106aYX10Bc0Yw6cJNDEm5hWa113D4Kpxk/view?usp=drive_link)
 
-<h2>⚠ Real Security Incidents & Responses:</h2>
 
-- [Phishing Emails (Spoofing Tactic)](https://github.com/georgecyberli/PhishingAnalysis)
-- [Mimikatz Attacks](https://github.com/georgecyberli/MimikatzIncident)
+<h2>☁️ Cloud Architecture & Site Reliability:</h2>
 
-<h2>👨‍💻 Security Engineering Projects (Self-Study):</h2>
-
-- <b>Secure Network Segmentation & Firewall Lab (February 2026)</b>
-  - [Project Summary](https://github.com/georgecyberli/NetworkSegmentation)
-
-<h2>🎓 College Final Projects:</h2>
-
-- <b>FCM790 - AWS Site Reliability Engineering (SRE) (Spring 2026)</b>
+- <b>AWS Site Reliability Engineering (SRE) (April 2026)</b>
 
   <b>Individual Work:</b>
   - <b>Part 1: </b>[Build-It](https://github.com/georgecyberli/FCM790-SRE-Project1.git)
@@ -33,8 +24,12 @@
   - **Focus:** ECS Fargate, Blue/Green Deployment, CI/CD Automation
   - <b>Part 1 (Work in Progress): </b>[Build-It](https://github.com/georgecyberli/FCM790-SRE-GP-Project1.git)
 
-- <b>FCM760 - Digital Forensic Analysis (Spring 2025)</b>
+<h2>🛡️ Network Defense & Digital Forensics:</h2>
+
+- <b>Digital Forensic Analysis (May 2025)</b>
   - [Project Summary](https://github.com/georgecyberli/FCM760-Digital-Forensic-Analysis)
+- <b>Secure Network Segmentation & Firewall Lab (February 2026)</b>
+  - [Project Summary](https://github.com/georgecyberli/NetworkSegmentation)
 
 <h2> 🤳 Connect with me:</h2>
 

@@ -4,6 +4,7 @@
 
 <h2>📄 Certifications:</h2>
 
+- [Microsoft Azure Fundamentals (AZ-900)](https://learn.microsoft.com/api/credentials/share/en-us/JL-0407/920855A494BFBB80?sharingId=46C1270499E4B51A)
 - [Fortinet Certified Associate Cybersecurity](https://www.credly.com/badges/ad98a675-ff31-4b09-86d1-cde751fda2af/linked_in_profile)
 - [(ISC)² Certified in Cybersecurity (CC)](https://www.credly.com/badges/0b4eb685-e1ad-4756-90dd-2c3f1f477c9e/linked_in_profile)
 - [Google Cybersecurity Certificate](https://www.credly.com/badges/6a9bb5c9-ad2e-4fe2-9fad-4de80124009e/linked_in_profile)
@@ -21,9 +22,17 @@
 
 <h2>🎓 College Final Projects:</h2>
 
-- <b>FCM790 - Site Reliability Engineering (SRE) (Spring 2026)</b>
+- <b>FCM790 - AWS Site Reliability Engineering (SRE) (Spring 2026)</b>
+
+  <b>Individual Work:</b>
   - <b>Part 1: </b>[Build-It](https://github.com/georgecyberli/FCM790-SRE-Project1.git)
   - <b>Part 2: </b>[Observe-It](https://github.com/georgecyberli/FCM790-SRE-Project2.git)
+
+  <b>Group Project (Team of 4):</b>
+  <b>AWS Microservices Architecture & CI/CD Deployment</b>
+  - **Focus:** ECS Fargate, Blue/Green Deployment, CI/CD Automation
+  - <b>Part 1 (Work in Progress): </b>[Build-It](https://github.com/georgecyberli/FCM790-SRE-GP-Project1.git)
+
 - <b>FCM760 - Digital Forensic Analysis (Spring 2025)</b>
   - [Project Summary](https://github.com/georgecyberli/FCM760-Digital-Forensic-Analysis)
 

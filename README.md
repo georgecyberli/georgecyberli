@@ -19,10 +19,6 @@
   - <b>Part 1: </b>[Build-It](https://github.com/georgecyberli/FCM790-SRE-Project1.git)
   - <b>Part 2: </b>[Observe-It](https://github.com/georgecyberli/FCM790-SRE-Project2.git)
 
-  <b>Group Project (Team of 4):</b>
-  <b>AWS Microservices Architecture & CI/CD Deployment</b>
-  - **Focus:** ECS Fargate, Blue/Green Deployment, CI/CD Automation
-  - <b>Part 1 (Work in Progress): </b>[Build-It](https://github.com/georgecyberli/FCM790-SRE-GP-Project1.git)
 
 <h2>🛡️ Network Defense & Digital Forensics:</h2>
 

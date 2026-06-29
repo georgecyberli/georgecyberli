@@ -13,11 +13,12 @@
 
 <h2>☁️ Cloud Architecture & Site Reliability:</h2>
 
-- <b>AWS Site Reliability Engineering (SRE) (April 2026)</b>
+- <b>AWS Site Reliability Engineering (SRE) (May 2026)</b>
 
   <b>Individual Work:</b>
   - <b>Part 1: </b>[Build-It](https://github.com/georgecyberli/FCM790-SRE-Project1.git)
   - <b>Part 2: </b>[Observe-It](https://github.com/georgecyberli/FCM790-SRE-Project2.git)
+  - <b>Part 3: </b>[Recover-It](https://github.com/georgecyberli/FCM790-SRE-Project3.git)
 
 
 <h2>🛡️ Network Defense & Digital Forensics:</h2>

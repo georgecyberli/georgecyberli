@@ -1,6 +1,6 @@
-<h1>Hi, I'm Jiehui! <br/><a href="https://www.linkedin.com/in/jiehui-li/">Security Engineer</a> | <a href="https://www.linkedin.com/in/jiehui-li/">Cloud Infrastructure & Network Defense</a></h1>
+<h1>Hi, I'm Jiehui! <br/><a href="https://www.linkedin.com/in/jiehui-li/">Systems Administrator</a> | <a href="https://www.linkedin.com/in/jiehui-li/">Enterprise Identity, M365, Cloud & Security</a></h1>
 
-<b>I am a Security Engineer with a strong foundation in systems administration, currently specializing in cloud infrastructure defense and network security. This repository showcases my hands-on technical labs, ranging from architecting highly available, Multi-AZ AWS environments to designing segmented enterprise firewalls and conducting digital forensic analysis.</b>
+<b>I am an IT Systems Engineer with hands-on depth across enterprise identity, endpoint management, and the Microsoft 365 stack, backed by a strong systems administration foundation. This repository showcases my self-directed technical labs, ranging from Active Directory and Entra ID identity governance to Intune endpoint management, M365 collaboration security, network defense, cybersecurity, and cloud infrastructure on AWS, including segmented enterprise firewall design and digital forensic analysis.</b>
 
 <h2>📄 Certifications:</h2>
 

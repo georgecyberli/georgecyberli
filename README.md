@@ -10,6 +10,21 @@
 - [Google Cybersecurity Certificate](https://www.credly.com/badges/6a9bb5c9-ad2e-4fe2-9fad-4de80124009e/linked_in_profile)
 - [Google Professional Workspace Administrator](https://drive.google.com/file/d/106aYX10Bc0Yw6cJNDEm5hWa113D4Kpxk/view?usp=drive_link)
 
+<h2>🖥️ Enterprise Systems Administration & Identity Management:</h2>
+
+<b>Self-directed, hands-on lab series simulating enterprise IT environments — built end-to-end from infrastructure deployment through identity governance, endpoint management, and compliance.</b>
+
+- <b>Active Directory & Group Policy (June 2026)</h2>
+  - [AD-GPO-Enterprise-lab](https://github.com/georgecyberli/AD-GPO-Enterprise-lab) — Domain controller deployment, GPO policy series, FSMO transfer & DC migration
+- <b>Microsoft Entra ID & Intune (June 2026)</h2>
+  - [Entra-ID-Identity-lab](https://github.com/georgecyberli/Entra-ID-Identity-lab) — Conditional Access, SSPR, RBAC, Administrative Units, SAML SSO
+  - [Intune-Endpoint-Management-lab](https://github.com/georgecyberli/Intune-Endpoint-Management-lab) — Hybrid Azure AD Join, compliance policies, Win32 app deployment, endpoint security
+- <b>Microsoft 365 Stack — Teams, SharePoint & OneDrive (June 2026)</h2>
+  - [Teams-Governance-Security-lab](https://github.com/georgecyberli/Teams-Governance-Security-lab) — Meeting/messaging policies, external access, DLP, app governance
+  - [SharePoint-OneDrive-Governance-lab](https://github.com/georgecyberli/SharePoint-OneDrive-Governance-lab) — Site permissions, external sharing hardening, OneDrive admin controls
+
+- <b>Okta Identity Management (June 2026)</h2>
+  - [Okta-Identity-Management-lab](https://github.com/georgecyberli/Okta-Identity-Management-lab) — AD-to-Okta sync, SAML SSO, MFA policies, lifecycle management
 
 <h2>☁️ Cloud Architecture & Site Reliability:</h2>
 

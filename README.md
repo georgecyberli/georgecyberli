@@ -19,9 +19,10 @@ Self-directed, hands-on lab series simulating enterprise IT environments — bui
 - <b>Microsoft Entra ID & Intune (June 2026)</b>
   - [Entra-ID-Identity-lab](https://github.com/georgecyberli/Entra-ID-Identity-lab) — Conditional Access, SSPR, RBAC, Administrative Units, SAML SSO
   - [Intune-Endpoint-Management-lab](https://github.com/georgecyberli/Intune-Endpoint-Management-lab) — Hybrid Azure AD Join, compliance policies, Win32 app deployment, endpoint security
-- <b>Microsoft 365 Stack — Teams, SharePoint & OneDrive (June 2026)</b>
+- <b>Microsoft 365 Stack — Teams, SharePoint, OneDrive & Exchange Online (June 2026)</b>
   - [Teams-Governance-Security-lab](https://github.com/georgecyberli/Teams-Governance-Security-lab) — Meeting/messaging policies, external access, DLP, app governance
   - [SharePoint-OneDrive-Governance-lab](https://github.com/georgecyberli/SharePoint-OneDrive-Governance-lab) — Site permissions, external sharing hardening, OneDrive admin controls
+  - [Exchange-Online-Mail-Flow-Compliance-lab](https://github.com/georgecyberli/Exchange-Online-Mail-Flow-Compliance-lab) — Mailbox administration, transport rules, SPF/DKIM/DMARC, Defender for Office 365, Purview eDiscovery
 
 - <b>Okta Identity Management (June 2026)</b>
   - [Okta-Identity-Management-lab](https://github.com/georgecyberli/Okta-Identity-Management-lab) — AD-to-Okta sync, SAML SSO, MFA policies, lifecycle management

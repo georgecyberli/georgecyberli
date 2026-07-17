@@ -14,9 +14,10 @@
 
 Self-directed, hands-on lab series simulating enterprise IT environments — built end-to-end from infrastructure deployment through identity governance, endpoint management, and compliance.
 
-- <b>Active Directory & Group Policy (June 2026)</b>
+- <b>Active Directory, Backup & Enterprise Integration (June 2026)</b>
   - [AD-GPO-Enterprise-lab](https://github.com/georgecyberli/AD-GPO-Enterprise-lab) — Domain controller deployment, GPO policy series, FSMO transfer & DC migration
   - [Backup-Disaster-Recovery-lab](https://github.com/georgecyberli/Backup-Disaster-Recovery-lab) — Windows Server Backup, Azure Recovery Services, Veeam (Community Edition) & System State Recovery
+  - [Enterprise-Acquisition-Migration-lab](https://github.com/georgecyberli/Enterprise-Acquisition-Migration-lab) — Cross-forest trust, VNet peering & DNS forwarding, ADMT-based SID history migration, trust decommission
 - <b>Microsoft Entra ID & Intune (June 2026)</b>
   - [Entra-ID-Identity-lab](https://github.com/georgecyberli/Entra-ID-Identity-lab) — Conditional Access, SSPR, RBAC, Administrative Units, SAML SSO
   - [Intune-Endpoint-Management-lab](https://github.com/georgecyberli/Intune-Endpoint-Management-lab) — Hybrid Azure AD Join, compliance policies, Win32 app deployment, endpoint security

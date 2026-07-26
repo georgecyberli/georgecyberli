@@ -64,18 +64,6 @@ Self-directed, hands-on lab series simulating enterprise IT environments — bui
   * [Okta-Identity-Management-lab](https://github.com/georgecyberli/Okta-Identity-Management-lab) — AD-to-Okta sync, SAML SSO, MFA policies, lifecycle management  
   ![Okta](https://img.shields.io/badge/-Okta-007DC1?style=flat&logo=okta&logoColor=white)
 
-## ☁️ Cloud Architecture & Site Reliability:
-
-- **AWS Site Reliability Engineering (SRE) (May 2026)**
-
-  * **Part 1:** [Build-It](https://github.com/georgecyberli/FCM790-SRE-Project1) — Multi-AZ high-availability architecture, Auto Scaling, RDS, load testing to 2,000 RPS  
-  ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazonaws&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL_RDS-4479A1?style=flat&logo=mysql&logoColor=white)
-
-  * **Part 2:** [Observe-It](https://github.com/georgecyberli/FCM790-SRE-Project2) — CloudWatch observability, Four Golden Signals, SNS alerting, on-call runbooks  
-  ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazonaws&logoColor=white) ![CloudWatch](https://img.shields.io/badge/-CloudWatch-FF4F8B?style=flat) ![SNS](https://img.shields.io/badge/-SNS-DD344C?style=flat)
-
-  * **Part 3:** [Recover-It](https://github.com/georgecyberli/FCM790-SRE-Project3) — Chaos engineering fault injection, cascading failure diagnosis, blameless postmortem authorship  
-  ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazonaws&logoColor=white) ![MySQL RDS](https://img.shields.io/badge/-MySQL_RDS-4479A1?style=flat&logo=mysql&logoColor=white) ![CloudWatch](https://img.shields.io/badge/-CloudWatch-FF4F8B?style=flat) ![Chaos Engineering](https://img.shields.io/badge/-Chaos_Engineering-DD344C?style=flat)
 
 ## 🛡️ Network Defense & Digital Forensics:
 
@@ -90,6 +78,22 @@ Self-directed, hands-on lab series simulating enterprise IT environments — bui
 - **Site-to-Site IPsec VPN Lab (July 2026)**
   * [Project Summary](https://github.com/georgecyberli/Site-to-Site-VPN-lab) — Dual-firewall pfSense S2S tunnel, IKEv2/AES256-GCM, multi-layer firewall troubleshooting  
   ![pfSense](https://img.shields.io/badge/-pfSense-212121?style=flat&logo=pfsense&logoColor=white) ![VMware](https://img.shields.io/badge/-VMware-607078?style=flat&logo=vmware&logoColor=white) ![IPsec](https://img.shields.io/badge/-IPsec-0078D4?style=flat)
+
+
+
+## ☁️ Cloud Architecture & Site Reliability:
+
+- **AWS Site Reliability Engineering (SRE) (May 2026)**
+
+  * **Part 1:** [Build-It](https://github.com/georgecyberli/FCM790-SRE-Project1) — Multi-AZ high-availability architecture, Auto Scaling, RDS, load testing to 2,000 RPS  
+  ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazonaws&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL_RDS-4479A1?style=flat&logo=mysql&logoColor=white)
+
+  * **Part 2:** [Observe-It](https://github.com/georgecyberli/FCM790-SRE-Project2) — CloudWatch observability, Four Golden Signals, SNS alerting, on-call runbooks  
+  ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazonaws&logoColor=white) ![CloudWatch](https://img.shields.io/badge/-CloudWatch-FF4F8B?style=flat) ![SNS](https://img.shields.io/badge/-SNS-DD344C?style=flat)
+
+  * **Part 3:** [Recover-It](https://github.com/georgecyberli/FCM790-SRE-Project3) — Chaos engineering fault injection, cascading failure diagnosis, blameless postmortem authorship  
+  ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazonaws&logoColor=white) ![MySQL RDS](https://img.shields.io/badge/-MySQL_RDS-4479A1?style=flat&logo=mysql&logoColor=white) ![CloudWatch](https://img.shields.io/badge/-CloudWatch-FF4F8B?style=flat) ![Chaos Engineering](https://img.shields.io/badge/-Chaos_Engineering-DD344C?style=flat)
+
 
 ## 🤳 Connect with me:
 

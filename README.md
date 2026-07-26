@@ -43,6 +43,8 @@ Self-directed, hands-on lab series simulating enterprise IT environments — bui
   - [Project Summary](https://github.com/georgecyberli/FCM760-Digital-Forensic-Analysis)
 - <b>Secure Network Segmentation & Firewall Lab (February 2026)</b>
   - [Project Summary](https://github.com/georgecyberli/NetworkSegmentation)
+- <b>Site-to-Site IPsec VPN Lab (July 2026)</b>
+  - [Project Summary](https://github.com/georgecyberli/Site-to-Site-VPN-lab)
 
 <h2> 🤳 Connect with me:</h2>
 

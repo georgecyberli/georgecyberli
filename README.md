@@ -71,13 +71,16 @@ Self-directed, hands-on lab series simulating enterprise IT environments — bui
   * [Project Summary](https://github.com/georgecyberli/FCM760-Digital-Forensic-Analysis) — Chain of custody, forensic imaging, disk/file system analysis, DFIR reporting  
   ![FTK Imager](https://img.shields.io/badge/-FTK_Imager-4B5563?style=flat) ![Autopsy](https://img.shields.io/badge/-Autopsy_(Sleuth_Kit)-4B5563?style=flat)
 
-- **Secure Network Segmentation & Firewall Lab (February 2026)**
-  * [Project Summary](https://github.com/georgecyberli/NetworkSegmentation) — Multi-zone pfSense (INTERNAL/DMZ/MGMT), least-privilege rules, DMZ web service  
+- **Network Security & VPN Labs (February 2026 – July 2026)**
+
+  * [Secure Network Segmentation & Firewall Lab](https://github.com/georgecyberli/NetworkSegmentation) — Multi-zone pfSense (INTERNAL/DMZ/MGMT), least-privilege rules, DMZ web service  
   ![pfSense](https://img.shields.io/badge/-pfSense-212121?style=flat&logo=pfsense&logoColor=white) ![VMware](https://img.shields.io/badge/-VMware-607078?style=flat&logo=vmware&logoColor=white) ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white) ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 
-- **Site-to-Site IPsec VPN Lab (July 2026)**
-  * [Project Summary](https://github.com/georgecyberli/Site-to-Site-VPN-lab) — Dual-firewall pfSense S2S tunnel, IKEv2/AES256-GCM, multi-layer firewall troubleshooting  
+  * [Site-to-Site IPsec VPN Lab](https://github.com/georgecyberli/Site-to-Site-VPN-lab) — Dual-firewall pfSense S2S tunnel, IKEv2/AES256-GCM, multi-layer firewall troubleshooting  
   ![pfSense](https://img.shields.io/badge/-pfSense-212121?style=flat&logo=pfsense&logoColor=white) ![VMware](https://img.shields.io/badge/-VMware-607078?style=flat&logo=vmware&logoColor=white) ![IPsec](https://img.shields.io/badge/-IPsec-0078D4?style=flat)
+
+  * [Point-to-Site OpenVPN Lab](https://github.com/georgecyberli/Point-to-Site-VPN-lab) — Certificate-based remote access VPN built on Site B's environment, complementing this site-to-site tunnel  
+  ![pfSense](https://img.shields.io/badge/-pfSense-212121?style=flat&logo=pfsense&logoColor=white) ![VMware](https://img.shields.io/badge/-VMware-607078?style=flat&logo=vmware&logoColor=white) ![OpenVPN](https://img.shields.io/badge/-OpenVPN-EA7E20?style=flat&logo=openvpn&logoColor=white)
 
 
 

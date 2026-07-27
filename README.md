@@ -21,7 +21,7 @@
 ![Windows Server](https://img.shields.io/badge/-Windows_Server-0078D4?style=flat&logo=windows&logoColor=white) ![Active Directory](https://img.shields.io/badge/-Active_Directory-00A4EF?style=flat&logo=microsoft&logoColor=white) ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
 
 **Networking & Security:**
-![pfSense](https://img.shields.io/badge/-pfSense-212121?style=flat&logo=pfsense&logoColor=white) ![VMware](https://img.shields.io/badge/-VMware-607078?style=flat&logo=vmware&logoColor=white) ![IPsec](https://img.shields.io/badge/-IPsec-0078D4?style=flat) ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
+![pfSense](https://img.shields.io/badge/-pfSense-212121?style=flat&logo=pfsense&logoColor=white) ![VMware](https://img.shields.io/badge/-VMware-607078?style=flat&logo=vmware&logoColor=white) ![IPsec](https://img.shields.io/badge/-IPsec-0078D4?style=flat) ![OpenVPN](https://img.shields.io/badge/-OpenVPN-EA7E20?style=flat&logo=openvpn&logoColor=white) ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
 
 **Backup, DR & Forensics:**
 ![Veeam](https://img.shields.io/badge/-Veeam-00B336?style=flat&logo=veeam&logoColor=white) ![FTK Imager](https://img.shields.io/badge/-FTK_Imager-4B5563?style=flat) ![Autopsy](https://img.shields.io/badge/-Autopsy-4B5563?style=flat)
